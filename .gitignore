@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.fastf1-cache/
+node_modules/
+dist/
+*.py[cod]
+
+*.log
+*.tsbuildinfo
